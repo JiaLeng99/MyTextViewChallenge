@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ColorTextViewChallenges</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+
+    <string name="box1">Box 1</string>
+    <string name="box2">Box 2</string>
+    <string name="box3">Box 3</string>
+    <string name="box4">Box 4</string>
+    <string name="box5">Box 5</string>
+    <string name="box6">Box 6</string>
+    <string name="box7">Box 7</string>
+    <string name="box8">Box 8</string>
+    <string name="box9">Box 9</string>
+    <string name="box10">Box 10</string>
+    <string name="box11">Box 11</string>
+    <string name="box12">Box 12</string>
+    <string name="box13">Box 13</string>
+    <string name="box14">Box 14</string>
+    <string name="box15">Box 15</string>
+    <string name="box16">Box 16</string>
+    <string name="box17">Box 17</string>
+    <string name="box18">Box 18</string>
+    <string name="box19">Box 19</string>
+    <string name="box20">Box 20</string>
+    <string name="box21">Box 21</string>
+    <string name="box22">Box 22</string>
+</resources>
